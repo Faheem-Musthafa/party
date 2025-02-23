@@ -1,0 +1,19 @@
+/* Header */
+.farewell{padding-top:60px;text-align: center;}
+.farewell h3{font-family:  "Dorsa", serif;font-size: 80px;margin: 0%;}
+.farewell h4{font-family:  "Dorsa", serif;font-size: 80px;color: #ffffc2;margin: 0%;}
+.farewell p{margin: 0%;font-size: 14px;margin-top: -15px;margin-bottom: 15px;}
+.copyright{padding: 6px 0;}
+p.copyright{text-align: center;color: #d0d0d0;font-size: 6.5px;margin: 0;padding-top: 50px;}
+/* iphone */
+.farewell{background-image: url(images/image.jpg);overflow: hidden;width: 100%;color: #f8f8f8;text-align: center;
+font-family: "Roboto", sans-serif;padding-bottom: 0;background-repeat: no-repeat;padding-bottom: 20px;}
+.farewell a{font-family: "Roboto", sans-serif; font-size: 12px;
+border-radius: 10px;padding: 10px 16px;text-decoration: none;background-color: #505050;color: #fff;}
+.farewell a:hover, .farewell a:focus{border: none;transition: 0.4s;background-color: #f3f3f3;color: #030202;}
+/* Responsive */
+@media (min-width: 324px) and (max-width: 575.98px) {
+
+/*Inside responsive */
+.header-image{padding:0}
+}
